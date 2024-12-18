@@ -49,6 +49,8 @@ html {
     color: var(--text-color-secondary);
 
     overflow-x: hidden;
+
+    scroll-behavior: smooth;
 }
 
 body {
