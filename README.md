@@ -29,8 +29,8 @@ Zingen é uma aplicação de karaokê criada para:
 
 ### Diretórios e Arquivos
 
-- `/assets`: Contém imagens e ícones do site.
-- `/styles/index.css`: Estilização principal do projeto.
+- `./assets`: Contém imagens e ícones do site.
+- `./styles/index.css`: Estilização principal do projeto.
 - `index.html`: Arquivo principal que estrutura o conteúdo do site.
 
 ### Dependências Externas
